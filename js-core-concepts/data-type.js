@@ -23,4 +23,5 @@ console.log(isKnown, isLocal)
 
 // non primitive data type
 const student = { name: 'badal', location: 'bristi goli', subject: 'botany'};
+
 const friends = ['tom', 'bob', 'jack', 'rock']
